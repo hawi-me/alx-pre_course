@@ -1,1 +1,2 @@
-my first readme
+my edited  readme for alx project 
+
